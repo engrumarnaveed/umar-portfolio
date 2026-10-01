@@ -29,6 +29,14 @@ const projects = [
         technologies: ["HTML", "CSS"],
         liveLink: "https://engrumarnaveed.github.io/login-form-in-html-css/",
         githubLink: ""
+    },
+
+    {
+        title: "React Todo App",
+        description: "A responsive Todo application for adding, managing and deleting daily tasks with a clean and user-friendly interface.",
+        technologies: ["React", "JavaScript", "CSS"],
+        liveLink: "https://engrumarnaveed.github.io/react-todo-app/",
+        githubLink: "https://github.com/engrumarnaveed/react-todo-app"
     }
 ];
 
